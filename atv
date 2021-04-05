@@ -3,3 +3,7 @@ http://main89.gcdn.co/live1/nbc/tracks-v1a1/mono.m3u8jjSSl5nNn_7-62DWgT-pg/trans
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Dubbed%20Hindi%20Movies/Batman%20Begins.png" group-title="Hindi Dubbed", 2005 | star Plus
 http://indo51.gcdn.co/hindi-STARPLUSindia/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Dubbed%20Hindi%20Movies/Batman%20Begins.png" group-title="Hindi Dubbed", 2005 | falcon
+https://s3.wasabisys.com/pandora/Hindi_Movies_2021/Lahore_Confidential.(2021).mkv
