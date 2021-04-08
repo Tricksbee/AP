@@ -1,13 +1,304 @@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Dubbed%20Hindi%20Movies/Batman%20Begins.png" group-title="Hindi Dubbed", 2005 | LIVE CRIC
-http://main89.gcdn.co/live1/nbc/tracks-v1a1/mono.m3u8jjSSl5nNn_7-62DWgT-pg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live@white.mkv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Dubbed%20Hindi%20Movies/Batman%20Begins.png" group-title="Hindi Dubbed", 2005 | star Plus
-http://indo51.gcdn.co/hindi-STARPLUSindia/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Dubbed%20Hindi%20Movies/Batman%20Begins.png" group-title="Hindi Dubbed", 2005 | falcon
-https://s3.wasabisys.com/pandora/Hindi_Movies_2021/Lahore_Confidential.(2021).mkv
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Dubbed%20Hindi%20Movies/Batman%20Begins.png" group-title="Hindi Dubbed", 2005 | kunal
-http://q38.gcdn.co/UKS1369/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Documentary - National Geographic - 100 Years - Vol 001 - Egypt The Quest for Eternity" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Egypt%20The%20Quest%20for%20Eternity.png" group-title="Documentary | English", Egypt The Quest for Eternity
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/1.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83567.avi
+#EXTINF:-1 tvg-id="" tvg-name="002 - Born of Fire" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Born%20of%20Fire.png" group-title="Documentary | English", Born of Fire
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/2.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83568.avi
+#EXTINF:-1 tvg-id="" tvg-name="003 - Rain Forest - 2004" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Rain%20Forest.png" group-title="Documentary | English", Rain Forest - 2004
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/3.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83569.avi
+#EXTINF:-1 tvg-id="" tvg-name="004 - Among the Wild Chimpanzees - 2004" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Among%20the%20Wild%20Chimpanzees.png" group-title="Documentary | English", Among the Wild Chimpanzees - 2004
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/4.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83570.avi
+#EXTINF:-1 tvg-id="" tvg-name="005 - Return to Everest XviD" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Return%20to%20Everest.png" group-title="Documentary | English", Return to Everest XviD
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/5.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83571.avi
+#EXTINF:-1 tvg-id="" tvg-name="006 - The Invincible World" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Invincible%20World.png" group-title="Documentary | English", The Invincible World
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/6.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83572.avi
+#EXTINF:-1 tvg-id="" tvg-name="007 - Arctic Kingdom-Life at the Edge" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Arctic%20Kingdom-Life%20at%20the%20Edge.png" group-title="Documentary | English", Arctic Kingdom-Life at the Edge
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/7.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83573.avi
+#EXTINF:-1 tvg-id="" tvg-name="008 - Yellowtone - Realm of The Coyote" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Yellowtone - Realm of The Coyote
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/8.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83574.avi
+#EXTINF:-1 tvg-id="" tvg-name="009 - Panama Wild" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Panama%20Wild.png" group-title="Documentary | English", Panama Wild
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/9.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83575.avi
+#EXTINF:-1 tvg-id="" tvg-name="010 - Austraila's Great Barrier Reef - 2004" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Austraila's Great Barrier Reef - 2004
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/10.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83576.avi
+#EXTINF:-1 tvg-id="" tvg-name="011 - Kangaroo Comeback" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Kangaroo%20Comeback.png" group-title="Documentary | English", Kangaroo Comeback
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/11.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83577.avi
+#EXTINF:-1 tvg-id="" tvg-name="012 - Okavango.Africa Wild Oasis" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Okavango.Africa%20Wild%20Oasis.png" group-title="Documentary | English", Okavango.Africa Wild Oasis
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/12.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83578.avi
+#EXTINF:-1 tvg-id="" tvg-name="013 - Mysteries of Egypt - 2004" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Mysteries%20of%20Egypt.png" group-title="Documentary | English", Mysteries of Egypt - 2004
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/13.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83579.avi
+#EXTINF:-1 tvg-id="" tvg-name="014 - Jerusalem.Within These Walls" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Jerusalem.Within%20These%20Walls.png" group-title="Documentary | English", Jerusalem.Within These Walls
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/14.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83580.avi
+#EXTINF:-1 tvg-id="" tvg-name="015 - Bali, Masterpiece of the Gods [XviD DualMP3]" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Bali%2C%20Masterpiece%20of%20the%20Gods.png" group-title="Documentary | English", Bali, Masterpiece of the Gods
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/15.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83581.avi
+#EXTINF:-1 tvg-id="" tvg-name="016 - The Soul of Spain" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", The Soul of Spain
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/16.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83582.avi
+#EXTINF:-1 tvg-id="" tvg-name="017 - The Great Indian Railway" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Great%20Indian%20Railway.png" group-title="Documentary | English", The Great Indian Railway
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/17.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83583.avi
+#EXTINF:-1 tvg-id="" tvg-name="018 - Flight Over Africa" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Flight%20Over%20Africa.png" group-title="Documentary | English", Flight Over Africa
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/18.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83584.avi
+#EXTINF:-1 tvg-id="" tvg-name="019 - Dinosaur Hunters" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Dinosaur%20Hunters.png" group-title="Documentary | English", Dinosaur Hunters
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/19.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83585.avi
+#EXTINF:-1 tvg-id="" tvg-name="020 - The Secret Life of Cats" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Secret%20Life%20of%20Cats.png" group-title="Documentary | English", The Secret Life of Cats
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/20.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83586.avi
+#EXTINF:-1 tvg-id="" tvg-name="021 - Horses" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Horses
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/21.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83587.avi
+#EXTINF:-1 tvg-id="" tvg-name="022 - Dolphins, The Wild Side" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Dolphins%2C%20The%20Wild%20Side.png" group-title="Documentary | English", Dolphins, The Wild Side
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/22.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83588.avi
+#EXTINF:-1 tvg-id="" tvg-name="023 - Those Wonderful Dogs [XviD DualMP3]" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Those%20Wonderful%20Dogs%20.png" group-title="Documentary | English", Those Wonderful Dogs 
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/23.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83589.avi
+#EXTINF:-1 tvg-id="" tvg-name="024 - Giant Pandas, The Last Refuge" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Giant%20Pandas%2C%20The%20Last%20Refuge.png" group-title="Documentary | English", Giant Pandas, The Last Refuge
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/24.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83590.avi
+#EXTINF:-1 tvg-id="" tvg-name="025 - Adventures In Time" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Adventures In Time
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/25.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83591.avi
+#EXTINF:-1 tvg-id="" tvg-name="026 - Beyond 2000 The New Explorers" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Beyond%202000%20The%20New%20Explorers.png" group-title="Documentary | English", Beyond 2000 The New Explorers
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/26.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83592.avi
+#EXTINF:-1 tvg-id="" tvg-name="027 - Secrets of the Titanic" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Secrets%20of%20the%20Titanic.png" group-title="Documentary | English", Secrets of the Titanic
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/27.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83593.avi
+#EXTINF:-1 tvg-id="" tvg-name="028 - Antarctic Wildlife Adventure" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Antarctic%20Wildlife%20Adventure.png" group-title="Documentary | English", Antarctic Wildlife Adventure
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/28.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83594.avi
+#EXTINF:-1 tvg-id="" tvg-name="029 - Mysteries Underground" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Mysteries%20Underground.png" group-title="Documentary | English", Mysteries Underground
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/29.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83595.avi
+#EXTINF:-1 tvg-id="" tvg-name="030 - Love Those Trains" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Love%20Those%20Trains.png" group-title="Documentary | English", Love Those Trains
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/30.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83596.avi
+#EXTINF:-1 tvg-id="" tvg-name="031 - Lost Kingdoms of the Maya" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Lost%20Kingdoms%20of%20the%20Maya.png" group-title="Documentary | English", Lost Kingdoms of the Maya
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/31.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83597.avi
+#EXTINF:-1 tvg-id="" tvg-name="032 - Treasure From the Past" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Treasure From the Past
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/32.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83598.avi
+#EXTINF:-1 tvg-id="" tvg-name="033 - African Wildlife (dual audio eng-chn)" tvg-logo="" group-title="Documentary | English", African Wildlife (dual audio eng-chn)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/33.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83599.avi
+#EXTINF:-1 tvg-id="" tvg-name="034 - Australia's Animal Mysteries" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Australia's Animal Mysteries
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/34.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83600.avi
+#EXTINF:-1 tvg-id="" tvg-name="035 - Land of the Tiger" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Land%20of%20the%20Tiger.png" group-title="Documentary | English", Land of the Tiger
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/35.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83601.avi
+#EXTINF:-1 tvg-id="" tvg-name="036 - Realm of the Alligator" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Realm%20of%20the%20Alligator.png" group-title="Documentary | English", Realm of the Alligator
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/36.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83602.avi
+#EXTINF:-1 tvg-id="" tvg-name="037 - The Rhino War" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", The Rhino War
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/37.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83603.avi
+#EXTINF:-1 tvg-id="" tvg-name="038 - White Wolf" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", White Wolf
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/38.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83604.avi
+#EXTINF:-1 tvg-id="" tvg-name="039 - Reflections on Elephants" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Reflections on Elephants
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/39.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83605.avi
+#EXTINF:-1 tvg-id="" tvg-name="040 - Beauty and the Beasts. A Leopard's Story" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Beauty%20and%20the%20Beasts.%20A%20Leopard's%20Story.png" group-title="Documentary | English", Beauty and the Beasts. A Leopard's Story
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/40.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83606.avi
+#EXTINF:-1 tvg-id="" tvg-name="041 - In the Shadow of Vesuvius" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/In%20the%20Shadow%20of%20Vesuvius.png" group-title="Documentary | English", In the Shadow of Vesuvius
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/41.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83607.avi
+#EXTINF:-1 tvg-id="" tvg-name="042 - The Explorers; A Century of Discovery" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Explorers%3B%20A%20Century%20of%20Discovery.png" group-title="Documentary | English", The Explorers; A Century of Discovery
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/42.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83608.avi
+#EXTINF:-1 tvg-id="" tvg-name="043 - Search for Battleship Bismarck" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Search%20for%20Battleship%20Bismarck.png" group-title="Documentary | English", Search for Battleship Bismarck
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/43.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83609.avi
+#EXTINF:-1 tvg-id="" tvg-name="044 - Cameramen Who Dared" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Cameramen%20Who%20Dared.png" group-title="Documentary | English", Cameramen Who Dared
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/44.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83610.avi
+#EXTINF:-1 tvg-id="" tvg-name="045 - Lions of the African Night" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Lions%20of%20the%20African%20Night.png" group-title="Documentary | English", Lions of the African Night
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/45.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83611.avi
+#EXTINF:-1 tvg-id="" tvg-name="046 - African Odyssey" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/African%20Odyssey.png" group-title="Documentary | English", African Odyssey
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/46.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83612.avi
+#EXTINF:-1 tvg-id="" tvg-name="047 - King Cobra" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/King%20Cobra.png" group-title="Documentary | English", King Cobra
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/47.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83613.avi
+#EXTINF:-1 tvg-id="" tvg-name="048 - Land of the Anaconda" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Land%20of%20the%20Anaconda.png" group-title="Documentary | English", Land of the Anaconda
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/48.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83614.avi
+#EXTINF:-1 tvg-id="" tvg-name="049 - Cats.Caressing the Tiger" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Cats.Caressing%20the%20Tiger.png" group-title="Documentary | English", Cats.Caressing the Tiger
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/49.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83615.avi
+#EXTINF:-1 tvg-id="" tvg-name="050 - Ocean Drifters" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Ocean%20Drifters.png" group-title="Documentary | English", Ocean Drifters
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/50.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83616.avi
+#EXTINF:-1 tvg-id="" tvg-name="051 - The Fox and the Sharks" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Fox%20and%20the%20Sharks.png" group-title="Documentary | English", The Fox and the Sharks
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/51.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83617.avi
+#EXTINF:-1 tvg-id="" tvg-name="052 - Ballad of the Irish Horse" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Ballad%20of%20the%20Irish%20Horse.png" group-title="Documentary | English", Ballad of the Irish Horse
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/52.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83618.avi
+#EXTINF:-1 tvg-id="" tvg-name="053 - Savage Garden (1997)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Savage Garden (1997)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/53.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83619.avi
+#EXTINF:-1 tvg-id="" tvg-name="054 - The Dragons Of Galapagos (1998)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Dragons%20Of%20Galapagos.png" group-title="Documentary | English", The Dragons Of Galapagos (1998)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/54.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83620.avi
+#EXTINF:-1 tvg-id="" tvg-name="055 - Wild Passions (XviD_DualMP3_EDRP)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Wild Passions
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/55.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83621.avi
+#EXTINF:-1 tvg-id="" tvg-name="056 - Treasures Of The Deep (1998)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasures%20Of%20The%20Deep.png" group-title="Documentary | English", Treasures Of The Deep (1998)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/56.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83622.avi
+#EXTINF:-1 tvg-id="" tvg-name="057 - The New Chimpanzees (1995)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20New%20Chimpanzees.png" group-title="Documentary | English", The New Chimpanzees (1995)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/57.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83623.avi
+#EXTINF:-1 tvg-id="" tvg-name="058 - Asteroids Deadly Impact (DivX511-AC3)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Asteroids%20Deadly%20Impact.png" group-title="Documentary | English", Asteroids Deadly Impact (DivX511-AC3)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/58.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83624.avi
+#EXTINF:-1 tvg-id="" tvg-name="059 - Heroes Of The High Frontier (1998)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Heroes%20Of%20The%20High%20Frontier.png" group-title="Documentary | English", Heroes Of The High Frontier (1998)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/59.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83625.avi
+#EXTINF:-1 tvg-id="" tvg-name="060 - Adventures -  The Jungle Navy (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Jungle%20Navy.png" group-title="Documentary | English", Adventures -  The Jungle Navy (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/60.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83626.avi
+#EXTINF:-1 tvg-id="" tvg-name="061 - Treasure Seekers - Glories Of Angkor Wat (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20Glories%20Of%20Angkor%20Wat.png" group-title="Documentary | English", Treasure Seekers - Glories Of Angkor Wat (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/61.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83627.avi
+#EXTINF:-1 tvg-id="" tvg-name="062 - The White House (1996)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20White%20House.png" group-title="Documentary | English", The White House (1996)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/62.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83628.avi
+#EXTINF:-1 tvg-id="" tvg-name="063 - Avalanche - The White Death (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Avalanche%20-%20The%20White%20Death.png" group-title="Documentary | English", Avalanche - The White Death (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/63.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83629.avi
+#EXTINF:-1 tvg-id="" tvg-name="064 - Danger - Quicksand! (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Danger%20-%20Quicksand!.png" group-title="Documentary | English", Danger - Quicksand! (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/64.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83630.avi
+#EXTINF:-1 tvg-id="" tvg-name="065 - Volcano!" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Volcano!
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/65.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83631.avi
+#EXTINF:-1 tvg-id="" tvg-name="066 - Nature's Fury (1994)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Nature's Fury (1994)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/66.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83632.avi
+#EXTINF:-1 tvg-id="" tvg-name="067 - Tsunami - Killer Wave" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Tsunami - Killer Wave
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/67.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83633.avi
+#EXTINF:-1 tvg-id="" tvg-name="068 - Cyclone" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Cyclone
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/68.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83634.avi
+#EXTINF:-1 tvg-id="" tvg-name="069 - Tigers of the Snow" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Tigers%20of%20the%20Snow.png" group-title="Documentary | English", Tigers of the Snow
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/61.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83635.avi
+#EXTINF:-1 tvg-id="" tvg-name="070 - Spitting Mad; Wild Camel of the Andes" tvg-logo="" group-title="Documentary | English", Spitting Mad; Wild Camel of the Andes
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/70.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83636.avi
+#EXTINF:-1 tvg-id="" tvg-name="071 - Don't Say Goodbye (1997)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Don't Say Goodbye (1997)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/71.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83637.avi
+#EXTINF:-1 tvg-id="" tvg-name="072 - Foxes Of The Kalahari (1997)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Foxes%20Of%20The%20Kalahari.png" group-title="Documentary | English", Foxes Of The Kalahari (1997)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/72.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83638.avi
+#EXTINF:-1 tvg-id="" tvg-name="073 - Sea Monsters - Search for the Giant Squid (1997)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Sea%20Monsters%20-%20Search%20for%20the%20Giant%20Squid.png" group-title="Documentary | English", Sea Monsters - Search for the Giant Squid (1997)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/73.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83639.avi
+#EXTINF:-1 tvg-id="" tvg-name="074 - Jewels of the Caribbean Sea (1994)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Jewels%20of%20the%20Caribbean%20Sea.png" group-title="Documentary | English", Jewels of the Caribbean Sea (1994)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/74.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83640.avi
+#EXTINF:-1 tvg-id="" tvg-name="075 - Treasure Seekers - Africa's Forgotten Kingdom (2000)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20Africa's%20Forgotten%20Kingdom.png" group-title="Documentary | English", Treasure Seekers - Africa's Forgotten Kingdom (2000)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/75.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83641.avi
+#EXTINF:-1 tvg-id="" tvg-name="076 - Treasure Seekers - China's Frozen Desert" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20China's%20Frozen%20Desert.png" group-title="Documentary | English", Treasure Seekers - China's Frozen Desert
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/76.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83642.avi
+#EXTINF:-1 tvg-id="" tvg-name="077 - Empires of India" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Empires%20of%20India.png" group-title="Documentary | English", Empires of India
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/77.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83643.avi
+#EXTINF:-1 tvg-id="" tvg-name="078 - Lost Cities of the Inca (2000)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Lost Cities of the Inca (2000)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/78.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83644.avi
+#EXTINF:-1 tvg-id="" tvg-name="079 - Treasure Seekers - The Egde Of The Orient (2000)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20The%20Egde%20Of%20The%20Orient.png" group-title="Documentary | English", Treasure Seekers - The Egde Of The Orient (2000)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/79.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83645.avi
+#EXTINF:-1 tvg-id="" tvg-name="080 - Treasure Seekers - Tibet`s Hidden Kingdom [XviD DualMP3]" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20Tibet%60s%20Hidden%20Kingdom.png" group-title="Documentary | English", Treasure Seekers - Tibet`s Hidden Kingdom [XviD DualMP3]
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/80.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83646.avi
+#EXTINF:-1 tvg-id="" tvg-name="081A - Pearl Harbor" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Pearl Harbor
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/81A.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83647.avi
+#EXTINF:-1 tvg-id="" tvg-name="081B - Pearl Harbor" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Pearl Harbor
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/81B.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83648.avi
+#EXTINF:-1 tvg-id="" tvg-name="082 - The Body Changers (2000)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/The%20Body%20Changers.png" group-title="Documentary | English", The Body Changers (2000)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/82.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83649.avi
+#EXTINF:-1 tvg-id="" tvg-name="083 - Coming Of Age With Elephants (1996)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Coming Of Age With Elephants (1996)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/83.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83650.avi
+#EXTINF:-1 tvg-id="" tvg-name="084 - Charles Lindbergh, Lone Eagle" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Charles%20Lindbergh%2C%20Lone%20Eagle.png" group-title="Documentary | English", Charles Lindbergh, Lone Eagle
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/84.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83651.avi
+#EXTINF:-1 tvg-id="" tvg-name="085 - Rhythms Of Life" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Rhythms%20Of%20Life.png" group-title="Documentary | English", Rhythms Of Life
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/85.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83652.avi
+#EXTINF:-1 tvg-id="" tvg-name="086 - Adventures - Master Of The Abyss (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Adventures - Master Of The Abyss (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/86.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83653.avi
+#EXTINF:-1 tvg-id="" tvg-name="087 - The Battle for Midway" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", The Battle for Midway
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/87.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83654.avi
+#EXTINF:-1 tvg-id="" tvg-name="088 - Untold Stories of World War II" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Untold%20Stories%20of%20World%20War%20II.png" group-title="Documentary | English", Untold Stories of World War II
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/88.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83655.avi
+#EXTINF:-1 tvg-id="" tvg-name="089 - Adventures - Panama Canal - The Mountain And The Mosquito (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Adventures - Panama Canal - The Mountain And The Mosquito (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/89.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83656.avi
+#EXTINF:-1 tvg-id="" tvg-name="090 - Hindenburg" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Hindenburg
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/90.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83657.avi
+#EXTINF:-1 tvg-id="" tvg-name="091 - Destination Space (2000)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Destination%20Space.png" group-title="Documentary | English", Destination Space (2000)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/91.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83658.avi
+#EXTINF:-1 tvg-id="" tvg-name="092 - Everest; Beyond the Summit" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Everest%3B%20Beyond%20the%20Summit.png" group-title="Documentary | English", Everest; Beyond the Summit
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/92.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83659.avi
+#EXTINF:-1 tvg-id="" tvg-name="093 - Treasure Seekers - The Silk Road (2000)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20The%20Silk%20Road%20.png" group-title="Documentary | English", Treasure Seekers - The Silk Road (2000)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/93.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83660.avi
+#EXTINF:-1 tvg-id="" tvg-name="094 - Lost Ships Of The Mediterranean (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Lost Ships Of The Mediterranean (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/94.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83661.avi
+#EXTINF:-1 tvg-id="" tvg-name="095 - Treasure Seekers - Code of the Mayan Kings" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20Code%20of%20the%20Mayan%20Kings.png" group-title="Documentary | English", Treasure Seekers - Code of the Mayan Kings
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/95.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83662.avi
+#EXTINF:-1 tvg-id="" tvg-name="096 - Treasure Seekers - Glories Of The Ancient Aegean (1999)" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Treasure%20Seekers%20-%20Glories%20Of%20The%20Ancient%20Aegean.png" group-title="Documentary | English", Treasure Seekers - Glories Of The Ancient Aegean (1999)
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/96.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83663.avi
+#EXTINF:-1 tvg-id="" tvg-name="097 - Ancient Graves - Voices of the Dead" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Voices%20of%20the%20Dead.png" group-title="Documentary | English", Ancient Graves - Voices of the Dead
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/97.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83664.avi
+#EXTINF:-1 tvg-id="" tvg-name="098 - Mysteries of Mankind" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Documentary.png" group-title="Documentary | English", Mysteries of Mankind
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/98.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83665.avi
+#EXTINF:-1 tvg-id="" tvg-name="099 - King Rattler" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/King%20Rattler.png" group-title="Documentary | English", King Rattler
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/99.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83666.avi
+#EXTINF:-1 tvg-id="" tvg-name="100 - Last Feast of the Crocodiles" tvg-logo="https://raw.githubusercontent.com/ahdtv/Logos/master/Documentary/Last%20Feast%20of%20the%20Crocodiles.png" group-title="Documentary | English", Last Feast of the Crocodiles
+https://z.asianhdtv.xyz/Aprweb/Web%20Series/Documentary/100%20Doc%20-%20National%20Geographic/100.avi
+http://mr4k.pk:8080/movie/sameer812/mmtmmt99/83667.avi
